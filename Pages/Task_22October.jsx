@@ -1,8 +1,8 @@
 // Q1.
-// import React from 'react'
+import React from 'react'
 // import { useState } from 'react'
 
-// const Task_22October = () => {
+const Task_22October = () => {
 //     const [Login, setLogin] = useState(true)
 //     return (
 //         <div>
@@ -222,9 +222,9 @@
 
 //         </div>
 //     )
-// }
+}
 
-// export default Task_22October
+export default Task_22October
 
 
 
